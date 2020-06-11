@@ -17,3 +17,9 @@ accordingly.
 Here is a link to the youtube video of its overview:
 https://www.youtube.com/watch?v=in9UIZuLBzk
 
+Project presentation video
+https://drive.google.com/file/d/1Cd-DUIy6GhFWdK4jeo0PvirT9yI4B4CO/view?usp=sharing
+
+Feedback Video
+https://drive.google.com/file/d/1qrp0_c8AFERYXtcSff98gsUNvT5BGb_K/view?usp=sharing
+
