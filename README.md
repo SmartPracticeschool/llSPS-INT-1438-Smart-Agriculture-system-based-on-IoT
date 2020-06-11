@@ -2,7 +2,9 @@
 Smart Agriculture system based on IoT#
 
 This project is made by Udesh Pandita under the SmartInternz Internship
+
 Application ID- SPS_APL_20200002766
+
 Project ID- SPS_PRO_101
 
 In this project, we are going to build a smart farming sysem using the Internet of Things
