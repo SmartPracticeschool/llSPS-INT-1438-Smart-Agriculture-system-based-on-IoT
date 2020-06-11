@@ -7,6 +7,8 @@ Application ID- SPS_APL_20200002766
 
 Project ID- SPS_PRO_101
 
+Email address- udeshpandita35@gmail.com
+
 In this project, we are going to build a smart farming sysem using the Internet of Things
 Technology. This project will help farmers to maintain their fields without excessive human involvement.
 In this method, we will utilize the latest IoT technologies to build a real-time monitoring
